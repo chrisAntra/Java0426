@@ -4,6 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class Day1 {
+
     public static void main(String[] args) {
         Parent p = new Child();
         LinkedList<Integer> list = new LinkedList();
