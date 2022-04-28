@@ -161,7 +161,7 @@ class TestHashMap {
  */
 class TestTreeMap{
     public static void main(String[] args) {
-        TreeSet<>();
+//        TreeSet<>();
         TreeMap<Integer, Integer> tm = new TreeMap<>(new Comparator<Integer>() {
             @Override
             public int compare(Integer o1, Integer o2) {
